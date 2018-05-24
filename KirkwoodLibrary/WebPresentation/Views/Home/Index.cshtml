@@ -1,0 +1,96 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <!--h1>Library Services</h1-->
+    <h3 .class="my_title">
+        ___  Library Services  ___________________________
+    </h3></br>
+    <!--p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p-->
+    <div id="tab1" class="tab active">
+        <form action="/Book/FiltredBooks" class="windowForm" target="_blank" method="get">
+            <div id="search">
+                <div class="search-title">
+
+                    <a id="advanced-search" title="Advanced Search" href="#" target="_blank">Advanced Search</a>
+
+                    <h4><span id="search-name"><i>Search Here</i></span></h4>
+
+                </div>
+
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="input-group">
+                            
+                                <span class="input-group-btn">
+
+                                    <button type="submit" class="btn btn-default" @*@*onclick="location.href='@Url.Action("FiltredBooks", "Book", new { id = "Novel" })'"*@>Go</button>
+                                   
+                                </span>
+                                <input type="text" id="txtGo" name="txtGo" class="form-control" placeholder="Search for...">
+                            
+        </div><!-- /input-group -->
+        </div><!-- /.col-lg-6 -->
+        </div><!-- /.row -->
+        </div>
+
+        </form>
+    </div>
+
+
+
+</div>
+
+<div class="row">
+    <div class="col-md-4" style="float:left;">
+        <h2>Cedar Rapids</h2>
+        <p>
+            <table>
+                <tr>
+                    <td>Mon-Th: </td>
+                    <td>7:30am-11pm</td>
+                </tr>
+                <tr>
+                    <td>Fri: </td>
+                    <td>7:30am-5pm</td>
+                </tr>
+                <tr>
+                    <td>Sat: </td>
+                    <td>8:30am-4pm</td>
+                </tr>
+                <tr>
+                    <td>Sun: </td>
+                    <td>3pm-8pm</td>
+                </tr>
+            </table>
+        </p>
+
+    </div>
+    <div class="col-md-4" style="float:right;">
+        <h2>Iowa City</h2>
+        <p>
+            <table>
+                <tr>
+                    <td>Mon-Th: </td>
+                    <td>7:30am-9pm</td>
+                </tr>
+                <tr>
+                    <td>Fri: </td>
+                    <td>7:30am-5pm</td>
+                </tr>
+                <tr>
+                    <td>Sat: </td>
+                    <td>11am-4pm</td>
+                </tr>
+                <tr>
+                    <td>Sun: </td>
+                    <td>Closed</td>
+                </tr>
+            </table>
+        </p>
+
+    </div>
+
+</div>

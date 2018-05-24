@@ -1,0 +1,447 @@
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll.config
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\WebPresentation.pdb
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\EntityFramework.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Owin.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\WebGrease.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.pdb
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\EntityFramework.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.pdb
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.Migrations.Addedadminusertoseedmethod.resources
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\LogicLayer.dll
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.pdb
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.pdb
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\WebPresentation\bin\LogicLayer.pdb
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll.config
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\WebPresentation.pdb
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\EntityFramework.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\LogicLayer.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Owin.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\WebGrease.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.pdb
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.pdb
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\LogicLayer.pdb
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.pdb
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\EntityFramework.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.Migrations.Addedadminusertoseedmethod.resources
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.dll
+D:\badis\final project 3\DotNetProject\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.pdb
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.Migrations.Addedadminusertoseedmethod.resources
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll.config
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\WebPresentation.pdb
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\EntityFramework.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\LogicLayer.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Owin.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\WebGrease.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.pdb
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.pdb
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\LogicLayer.pdb
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.pdb
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\EntityFramework.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.pdb
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll.config
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\WebPresentation.pdb
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\EntityFramework.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\LogicLayer.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Owin.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\WebGrease.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.pdb
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.pdb
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\LogicLayer.pdb
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.pdb
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\EntityFramework.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.Migrations.Addedadminusertoseedmethod.resources
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.dll
+D:\badis\DotNetProject - working 2\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.pdb
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll.config
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\WebPresentation.pdb
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\EntityFramework.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\LogicLayer.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Owin.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\WebGrease.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.pdb
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.pdb
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\LogicLayer.pdb
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.pdb
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\EntityFramework.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.Migrations.Addedadminusertoseedmethod.resources
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csproj.CoreCompileInputs.cache
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.pdb
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.Migrations.Student.resources
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll.config
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\WebPresentation.pdb
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\EntityFramework.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\LogicLayer.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Owin.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\WebGrease.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.pdb
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.pdb
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\LogicLayer.pdb
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\EntityFramework.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.pdb
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.Migrations.Addedadminusertoseedmethod.resources
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.Migrations.Student.resources
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csproj.CoreCompileInputs.cache
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.dll
+E:\DotNetProject - working 4\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.pdb
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll.config
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\WebPresentation.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\WebPresentation.pdb
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\EntityFramework.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\LogicLayer.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Owin.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\WebGrease.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\DataAccessLayer.pdb
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\DataTransferObjects.pdb
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\LogicLayer.pdb
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\EntityFramework.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\EntityFramework.SqlServer.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.Helpers.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.Mvc.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.Optimization.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.Razor.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\System.Web.WebPages.Razor.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Antlr3.Runtime.pdb
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Newtonsoft.Json.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.Migrations.Initial.resources
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.Migrations.Admin.resources
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.csproj.CoreCompileInputs.cache
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\WebPresentation\obj\Debug\WebPresentation.pdb

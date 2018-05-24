@@ -1,0 +1,374 @@
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.CoreCompileInputs.cache
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+C:\Badis_Work\Kirkwood Fall term\DOT NET2\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.dll
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.dll
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.dll
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.pdb
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.pdb
+D:\badis\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.pdb
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.dll
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.dll
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.dll
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.pdb
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.pdb
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.pdb
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.CoreCompileInputs.cache
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.g.cs
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.g.cs
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.baml
+E:\badis\DotNetProject (2) nov 30\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.baml
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.dll
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.dll
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.dll
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.pdb
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.pdb
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.pdb
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.g.cs
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.g.cs
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.baml
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.baml
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+D:\badis\DotNetProject (2) dec 05 - start\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.ResolveComReference.cache
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.ResolveComReference.cache
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.baml
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.g.cs
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.g.cs
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.g.cs
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.dll
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.dll
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.dll
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.pdb
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.pdb
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.pdb
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.baml
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.baml
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+E:\badis\DotNetProject (2) dec 07\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.CoreCompileInputs.cache
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.dll
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.dll
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.dll
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.pdb
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.pdb
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.pdb
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.ResolveComReference.cache
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.baml
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.g.cs
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.g.cs
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.g.cs
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.baml
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.baml
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.CoreCompileInputs.cache
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+E:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.ResolveComReference.cache
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.dll
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.dll
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.dll
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.pdb
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.pdb
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.pdb
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.baml
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.g.cs
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.g.cs
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.g.cs
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.baml
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.baml
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+D:\badis\DotNetProject (2) dec 11\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.ResolveComReference.cache
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.baml
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.g.cs
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.g.cs
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.g.cs
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.dll
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.dll
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.dll
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.pdb
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.pdb
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.pdb
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.baml
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.baml
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.CoreCompileInputs.cache
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+C:\Badis\DotNetProject (2) dec 13\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.ResolveComReference.cache
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.dll
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.dll
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.dll
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.pdb
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.pdb
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.pdb
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.baml
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.g.cs
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.g.cs
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.g.cs
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.baml
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.baml
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+D:\badis\DotNetProject (3) dec 14\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.ResolveComReference.cache
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.dll
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.dll
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.dll
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.pdb
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.pdb
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.pdb
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.baml
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.g.cs
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.g.cs
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.g.cs
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.baml
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.baml
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+F:\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.ResolveComReference.cache
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+D:\badis\DotNetProject - Final\DotNetProject\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.dll
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.pdb
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.pdb
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.pdb
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.ResolveComReference.cache
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.baml
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.g.cs
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.g.cs
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.g.cs
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.baml
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.baml
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+D:\badis\DotNetProject - working\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.dll
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.pdb
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.pdb
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.pdb
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.ResolveComReference.cache
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.baml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.g.cs
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.g.cs
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.g.cs
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.baml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.baml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.CoreCompileInputs.cache
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+E:\DotNetProject - working 3\DotNetProject - working 3\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb
+E:\DotNetProject - working 4\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+E:\DotNetProject - working 4\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.ResolveComReference.cache
+E:\DotNetProject - working 4\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.baml
+E:\DotNetProject - working 4\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.g.cs
+E:\DotNetProject - working 4\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.g.cs
+E:\DotNetProject - working 4\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+E:\DotNetProject - working 4\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.g.cs
+E:\DotNetProject - working 4\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+E:\DotNetProject - working 4\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+E:\DotNetProject - working 4\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+E:\DotNetProject - working 4\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe.config
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.exe
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\KirkwoodLibrary.pdb
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.dll
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataAccessLayer.pdb
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\DataTransferObjects.pdb
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\bin\Debug\LogicLayer.pdb
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csprojResolveAssemblyReference.cache
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.ResolveComReference.cache
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.baml
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.g.cs
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmBookDetail.g.cs
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.g.cs
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.g.cs
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.g.cs
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\App.g.cs
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.cache
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary_MarkupCompile.lref
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmAdminWindow.baml
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmLogIn.baml
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\frmStudentWindow.baml
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\MainWindow.baml
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.g.resources
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.Properties.Resources.resources
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.GenerateResource.Cache
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.csproj.CoreCompileInputs.cache
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.exe
+E:\DotNetProject - working 5\KirkwoodLibrary\KirkwoodLibrary\obj\Debug\KirkwoodLibrary.pdb

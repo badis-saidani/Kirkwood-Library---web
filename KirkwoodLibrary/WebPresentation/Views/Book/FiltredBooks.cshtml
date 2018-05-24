@@ -1,0 +1,161 @@
+﻿@model IEnumerable<DataTransferObjects.Book>
+
+@{
+    ViewBag.Title = "Index";
+
+    string test = (string)System.Web.HttpContext.Current.Session["test"];
+    string test2 = (string)System.Web.HttpContext.Current.Session["test2"];
+}
+
+<br /><br />
+<h2>Books</h2>
+
+@*@{
+    if (Request.IsAuthenticated)
+    {
+        if (User.IsInRole("Administrator"))
+        {
+            <p>
+                @Html.ActionLink("Create New", "Create")
+            </p>
+        }
+    }
+}*@
+
+@*<h1>Test1 : @test2</h1>
+    <h1>Test2 : @test</h1>*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ISBN)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Edition)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EditionYear)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AuthorID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LibraryID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StatusID)
+        </th>
+        @{
+            if (Request.IsAuthenticated)
+            {
+                if (User.IsInRole("Administrator"))
+                {
+                    <th>
+                        @Html.DisplayNameFor(model => model.StudentEmail)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DateOfCheckout)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DateToReturn)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Active)
+                    </th>
+                }
+            }
+        }
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ISBN)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Edition)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EditionYear)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LibraryID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StatusID)
+            </td>
+
+            @{
+                if (Request.IsAuthenticated)
+                {
+                    if (User.IsInRole("Administrator"))
+                    {
+                        <td>
+                            @Html.DisplayFor(modelItem => item.StudentEmail)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DateOfCheckout)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DateToReturn)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Active)
+                        </td>
+
+                        <td>
+
+                            @Html.ActionLink("Edit", "Edit", new { id = item.BookID }) |
+                            @Html.ActionLink("Details", "Details", new { id = item.BookID }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.BookID })
+                        </td>
+                    }
+                }
+            }
+
+
+            @{
+                if (Request.IsAuthenticated)
+                {
+                    if (!User.IsInRole("Administrator"))
+                    {
+                        if (item.StatusID == "Available")
+                        {
+                            <td>
+
+                                @Html.ActionLink("Hold", "Hold", new { id = item.BookID })
+                            </td>
+                        }
+
+
+                    }
+                }
+            }
+
+        </tr>
+                }
+
+</table>

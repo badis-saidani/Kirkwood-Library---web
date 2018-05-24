@@ -1,0 +1,49 @@
+﻿@model WebPresentation.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<br/><br/>
+<h2> @ViewBag.FirstName &nbsp; @ViewBag.LastName</h2>
+
+
+<table class="table">
+    @{
+        foreach (string role in ViewBag.Roles)
+        {
+            <tr>
+                <td>@role</td>
+                <td>
+                    @Html.ActionLink("Block", "Remove",
+                    new { id = role + "," + ViewBag.Id })
+            </td>
+
+        </tr>
+
+        }
+
+        foreach (string role in ViewBag.UnusedRoles)
+        {
+            <tr>
+                <td>@role</td>
+                <td>
+                    @Html.ActionLink("Unblock", "Add",
+                    new { id = role + "," + ViewBag.Id })
+                </td>
+
+            </tr>
+
+        }
+    }
+
+
+</table>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
